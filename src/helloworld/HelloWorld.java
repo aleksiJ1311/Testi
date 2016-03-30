@@ -17,9 +17,11 @@ public class HelloWorld {
     public static void main(String[] args) {
         System.out.println("Hello World!");
         System.out.println("Lisätty jotain hauskaa");
-        
+  
         System.out.println("Lisätty hauskaa, terveisin Juho");
         
+        System.out.println("Juho ei osaa");
+
     }
     
 }
