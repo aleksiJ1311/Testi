@@ -23,6 +23,8 @@ public class HelloWorld {
         System.out.println("Juho ei osaa");
         
         System.out.println("Vitu hyvä KappaPrideGITGUD");
+        
+        
 
     }
     
