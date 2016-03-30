@@ -11,6 +11,10 @@ package helloworld;
  */
 public class Kakkaluokka {
     
-    public int täälläimetäänkakkaa;
+    
+    
+    void Pasko(int maara) {
+        System.out.println(maara);
+    }
     
 }

@@ -24,7 +24,9 @@ public class HelloWorld {
         
         System.out.println("Vitu hyvä KappaPrideGITGUD");
         
+        Kakkaluokka kakkaavaihminen = new Kakkaluokka();
         
+        kakkaavaihminen.Pasko(50000);
 
     }
     
