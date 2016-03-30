@@ -12,5 +12,6 @@ package helloworld;
 public class JuhonTesti {
     
     public int juhontavara;
+    public int paskaa;
     
 }
