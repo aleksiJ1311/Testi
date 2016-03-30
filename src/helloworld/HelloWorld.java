@@ -21,6 +21,8 @@ public class HelloWorld {
         System.out.println("Lisätty hauskaa, terveisin Juho");
         
         System.out.println("Juho ei osaa");
+        
+        System.out.println("Vitu hyvä KappaPrideGITGUD");
 
     }
     
